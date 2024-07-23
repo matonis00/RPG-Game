@@ -1,0 +1,154 @@
+Mage:
+Mroczny obcy
+Piekielny obcy
+Toksyczny obcy
+Mulisty blob
+Oslizly blob
+Blob wulkaniczny
+Piaskowy blob
+Okrutne drzewo
+Skazone drzewo
+Istota pozaziemska
+Przybysz z kosmosu
+Przybysz z obcej planety
+Maly zielony czlowieczek
+Wiedzma
+Rosiczka bagienna
+Rosiczka lesna
+Meduza z moczar
+Meduza mroku
+Potwornie okrutny zajac
+Potwornie jadowity zajac
+Czarny upior
+Upadly mnich
+Kapturnik
+Rogacz ognisty
+Demon mrozu
+Szaman voodoo
+Szkielet voodoo
+Hunter:
+Rozbojnik Rozbojnik
+Rabniety rabus
+Zly kradziej
+Bazyliszek
+Bazyliszek ognisty
+Jaszczurzy siepacz
+Jaszczurzy rozbojnik
+Jaszczur z bagien
+Gorski jaszczur
+Zywiolak powietrza
+Burza piaskowa
+Plugawy nietoperz
+Nietoperz pylisty
+Monstrualny nietoperz
+Siny sep
+Sep olbrzymi
+Wodny glompf
+Glompf bagienny
+Glompf ognisty
+Ohydny gremlin
+Okrutny gremlin
+Chciwy gremlin
+Zgnilozielony gremlin
+Hiena cmentarna
+Kobra grzechoczaca
+Kobra cienista
+Wijozmij
+Kobra plujaca
+Potwornie morderczy zajac
+Potwornie rozowy zajaczek
+Szczur sciekowy
+Szczur
+Szczur albinos
+Pantera
+Sniezny lew
+Tygrys
+Lew gorski
+Jaskiniowy skorpion
+Ognisty skorpion
+Skorpion cienisty
+Lesny skorpion
+Okrutna tarantula
+Pajak olbrzymi
+Pajak drzewny
+Sukkub bezwstydny
+Bagienna nimfomanka
+Piekielna oblubienica
+Podstepny wampir
+Krwiozerczy wampir
+Wampir grozy
+Wielka stopa
+Yeti
+Warrior:
+Wsciekly niedzwiedz brunatny
+Klopotliwy mis
+Niedzwiedz brunatny
+Niedzwiedz polarny
+Smok obledu
+Olbrzymi smok
+Smok ciemnosci
+Jadowity smok
+Dragor mrozu
+Bagienny dragor
+Szary dragor
+Piekielny dragor
+Szkaradny demon
+Odrazajacy demon
+Zlowrogi demon
+Szary gargulec
+Brazowy gargulec
+Ghul nocny
+Siny ghul
+Ghul bagienny
+Kamienny olbrzym
+Wulkaniczny olbrzym
+Zielony gnoll
+Czerwony gnoll
+Szary gnoll
+Lesny goryl
+Bialy goryl
+Goryl-goral
+Parszywy dran
+Zawszony korsarz
+Szkielet-zolnierz
+Szkielet-wojownik
+Krokodyl blotny
+Aligator cienisty
+Mrozny aligator
+Krokodyl mulisty
+Poczwara
+Ludojad
+Potwornie zlowrogi zajac
+Potwornie choleryczny zajac
+Czarnobrody
+Pirat John Pasat-Monsun
+Pirat Krwawonos
+Raptor ryczacy
+Raptor klaposzczeki
+Raptor skaczacy
+Zielony T-Rex
+Czerwony T-Rex
+Szary T-Rex
+Szkielet
+Nadety minotaur
+Byczy kark
+Podly minotaur
+Nocny troll
+Kamienny troll
+Sniezny troll
+Gorski troll
+Odyniec
+Dzik
+Sniezny wilk
+Wsciekly wilk
+Posepny wilk
+Wsciekle psisko
+Zielony centaur
+Bordowy centaur
+Szary centaur
+Obrzydliwy ozywieniec
+Nieumarly zombie
+Cyklop piaskowy
+Piekielny cyklop
+Jaskiniowy cyklop
+Swiniocyklop

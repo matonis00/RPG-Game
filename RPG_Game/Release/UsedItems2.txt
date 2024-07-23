@@ -1,0 +1,215 @@
+1 W 6;20;0;0;10 "Rozdzka" 13 30 50
+2 W 6;20;0;0;10 "Rozdzka" 13 20 28
+3 W 6;20;0;0;10 "Rozdzka" 13 22 34
+4 W 6;20;0;0;10 "Rozdzka" 13 30 50
+5 W 6;20;0;0;10 "Rozdzka" 13 30 42
+6 W 6;20;0;0;10 "Rozdzka" 13 80 96
+7 W 6;20;0;0;10 "Rozdzka" 13 46 58
+8 W 6;20;0;0;10 "Rozdzka" 13 140 180
+9 W 6;20;0;0;10 "Rozdzka" 13 70 90
+10 W 6;20;0;0;10 "Rozdzka" 13 110 140
+11 W 6;20;0;0;10 "Rozdzka" 13 40 60
+12 W 6;20;0;0;10 "Rozdzka" 13 40 56
+13 W 6;20;0;0;10 "Rozdzka" 13 50 62
+14 W 6;20;0;0;10 "Rozdzka" 13 80 90
+15 W 6;20;0;0;10 "Rozdzka" 13 70 82
+16 W 6;20;0;0;10 "Rozdzka" 13 166 186
+17 W 6;20;0;0;10 "Rozdzka" 13 90 102
+18 W 6;20;0;0;10 "Rozdzka" 13 130 150
+19 W 6;20;0;0;10 "Rozdzka" 13 155 175
+20 W 6;20;0;0;10 "Rozdzka" 13 120 160
+21 W 0;30;0;0;53 "Chicken Master 3000" 91 43 70
+22 A 0;50;0;0;48 "Mordercza Kurtka z Mackami" 64 178 Armor
+23 W 0;81;0;0;0 "Gadzet Dalekiego Zasiegu" 83 44 66
+24 A 0;39;0;45;0 "Helm Pogromcy Demonow" 98 139 Helm
+25 A 0;0;0;105;0 "Zielone Niebezpieczenstwo" 59 117 Armor
+26 A 0;48;0;43;0 "Przesladowcze Rekawice Puszczanskiego Przesladowcy" 66 101 Gloves
+27 W 0;30;0;0;44 "Kusza snajpera" 56 31 69
+28 W 30;51;0;0;0 "Oznaka statusu" 107 41 77
+29 W 30;0;0;29;0 "Dlugi miecz" 59 39 68
+30 W 0;30;0;0;43 "Siekiera Sieczki" 82 37 67
+31 A 0;0;64;0;0 "Wzmocnione rekawice" 69 188 Gloves
+32 A 0;0;0;67;0 "Kapelusz Robina" 106 134 Helm
+33 W 0;0;0;0;0 "Bron poczatkowa" 1 8 10
+34 A 0;0;1;0;0 "Poczatkowy Helm" 1 2 Helm
+35 A 0;0;0;1;0 "Poczatkowa Zbroja" 1 5 Armor
+36 A 0;0;1;0;0 "Poczatkowe Rekawice" 1 3 Gloves
+37 W 10;0;2;0;0 "Katowskie Ostrze" 3 1 3
+38 W 12;0;0;0;0 "Katowski topor" 2 1 3
+39 W 10;0;0;0;4 "Wielki Noz Rzeznicki" 3 1 3
+40 A 0;0;0;5;0 "Rekawice czeladnika" 2 2 Gloves
+41 A 0;1;0;5;0 "Plaszcz Skrytobojcy" 3 2 Armor
+42 A 7;0;2;0;0 "Trojwymiarowe Okulary Daltonisty" 2 2 Helm
+43 W 10;9;0;0;0 "Wyrzutnia radioaktywna" 14 9 15
+44 A 0;0;0;6;8 "Czarno-Zolta Maska Guslarza" 12 56 Helm
+45 A 20;0;0;0;0 "Zbroja uzytkowa" 14 43 Armor
+46 A 1;0;0;0;0 "Poczatkowe Rekawice" 1 3 Gloves
+47 W 13;10;0;0;0 "Proca" 21 12 20
+48 W 10;0;0;0;14 "Miecz Demonicznego Spojrzenia" 17 8 17
+49 W 0;23;0;0;0 "Laska Podstepnego Pasterza" 13 8 12
+50 A 8;0;0;7;0 "Rogaty helm" 25 70 Helm
+51 A 0;0;8;14;0 "Rekawice Demonicznych Macek" 21 56 Gloves
+52 A 14;0;8;0;0 "Pancerz Zniszczenia z Ognistej Stali" 21 75 Armor
+53 W 0;0;10;8;0 "Zlota Brzytwa " 10 19 25
+54 A 0;0;1;0;0 "Poczatkowy Helm" 1 2 Helm
+55 A 0;0;0;1;0 "Poczatkowa Zbroja" 1 5 Armor
+56 A 0;0;1;0;0 "Poczatkowe Rekawice" 1 3 Gloves
+57 W 5;0;10;0;0 "Rozdzka Szaranczy" 10 14 18
+58 W 13;10;0;0;0 "Kieszonkowa katapulta" 12 6 15
+59 W 10;0;0;0;8 "Dlugi miecz" 13 4 10
+60 A 11;0;10;0;0 "Trojwymiarowe Okulary Daltonisty" 13 7 Helm
+61 W 0;0;23;0;0 "Zaklinacz Sceptykow " 11 17 24
+62 A 12;0;12;0;0 "Szata czeladnika" 14 9 Armor
+63 W 0;0;0;0;0 "Bron poczatkowa" 1 8 10
+64 A 0;0;1;0;0 "Poczatkowy Helm" 1 2 Helm
+65 A 0;0;0;1;0 "Poczatkowa Zbroja" 1 5 Armor
+66 A 0;0;1;0;0 "Poczatkowe Rekawice" 1 3 Gloves
+67 W 0;1;10;0;0 "Kostur voodoo " 2 3 5
+68 W 10;0;10;0;0 "Bulawa do sprzeczek" 3 1 3
+69 W 10;6;0;0;0 "Pretensjonalny rapier" 2 1 3
+70 A 0;5;0;0;0 "Szlafrok" 7 3 Armor
+71 A 0;0;0;0;18 "Rekawice Czuwania" 5 3 Gloves
+72 A 5;0;11;0;0 "Lodowo-Ogniowa Szata Eskimosa" 5 4 Armor
+73 W 0;0;0;0;0 "Bron poczatkowa" 1 1 7
+74 A 1;0;0;0;0 "Poczatkowy Helm" 1 2 Helm
+75 A 0;0;0;1;0 "Poczatkowa Zbroja" 1 5 Armor
+76 A 1;0;0;0;0 "Poczatkowe Rekawice" 1 3 Gloves
+77 W 0;0;10;0;2 "Migacz " 2 3 5
+78 W 10;8;0;0;0 "Szczerozlote Ostrze" 3 1 3
+79 W 2;10;0;0;0 "Luk Filetowania Piranii" 2 1 3
+80 A 0;0;8;8;0 "Zloty Leb Hedonisty" 3 9 Helm
+81 A 5;0;0;1;0 "Lwia Zbroja Duzego Kotka" 3 10 Armor
+82 A 0;0;3;1;0 "Stare rekawice" 2 8 Gloves
+83 A 0;4;0;0;3 "Stroj z Bieguna Polnocnego" 6 30 Armor
+84 W 0;0;0;0;0 "Bron poczatkowa" 1 1 7
+85 A 1;0;0;0;0 "Poczatkowy Helm" 1 2 Helm
+86 A 0;0;0;1;0 "Poczatkowa Zbroja" 1 5 Armor
+87 A 1;0;0;0;0 "Poczatkowe Rekawice" 1 3 Gloves
+88 W 10;12;0;0;0 "Pretensjonalny rapier" 10 4 9
+89 W 9;10;0;0;0 "Proca" 9 5 8
+90 W 0;0;10;9;0 "Rozdzka Skurczonej Czachy o Szemranej Mocy " 6 6 9
+91 A 0;9;0;8;0 "Rogaty helm" 11 35 Helm
+92 A 0;0;12;0;5 "Zbroja turniejowa" 7 31 Armor
+93 A 0;0;6;7;0 "Najlepszy gajer jubilata" 9 40 Armor
+94 W 0;0;0;0;0 "Bron poczatkowa" 1 8 10
+95 A 0;0;1;0;0 "Poczatkowy Helm" 1 2 Helm
+96 A 0;0;0;1;0 "Poczatkowa Zbroja" 1 5 Armor
+97 A 0;0;1;0;0 "Poczatkowe Rekawice" 1 3 Gloves
+98 W 0;10;2;0;0 "Neonowy Luk Poznania" 2 1 3
+99 W 0;0;10;4;0 "Cukierkowe laski zla" 2 3 5
+100 W 1;10;0;0;0 "Smiercionosna Wuwuzela" 2 1 3
+101 W 0;0;0;0;0 "Bron poczatkowa" 1 8 10
+102 A 0;0;1;0;0 "Poczatkowy Helm" 1 2 Helm
+103 A 0;0;0;1;0 "Poczatkowa Zbroja" 1 5 Armor
+104 A 0;0;16;17;23 "Mordercza Kurtka z Mackami" 30 76 Armor
+105 W 33;20;0;19;0 "Luk Filetowania Piranii" 67 22 42
+106 W 26;20;0;0;0 "Krotki luk" 47 19 36
+107 A 32;19;0;0;0 "Fajny czepiec" 34 99 Helm
+108 A 31;13;0;0;0 "Kubrak lowcy" 41 63 Armor
+109 A 0;16;11;0;0 "Rekawice z materialu" 24 38 Gloves
+110 W 0;0;20;0;19 "Kostur voodoo " 58 67 92
+111 W 30;0;36;0;0 "Miecz krolewski" 60 37 60
+112 W 0;30;24;0;0 "Kusza snajpera" 46 34 49
+113 W 0;30;0;0;47 "Harpun" 51 21 46
+114 W 0;30;0;0;24 "Laska Podstepnego Pasterza" 46 24 58
+115 W 0;30;0;41;0 "Kusza snajpera" 69 39 63
+116 W 0;0;0;0;0 "Bron poczatkowa" 1 8 10
+117 A 0;0;1;0;0 "Poczatkowy Helm" 1 2 Helm
+118 A 0;0;0;1;0 "Poczatkowa Zbroja" 1 5 Armor
+119 A 0;0;1;0;0 "Poczatkowe Rekawice" 1 3 Gloves
+120 W 0;10;2;0;0 "Neonowy Luk Poznania" 2 1 3
+121 W 0;0;10;4;0 "Cukierkowe laski zla" 2 3 5
+122 W 1;10;0;0;0 "Smiercionosna Wuwuzela" 2 1 3
+123 W 0;0;0;0;0 "Bron poczatkowa" 1 8 10
+124 A 0;0;1;0;0 "Poczatkowy Helm" 1 2 Helm
+125 A 0;0;0;1;0 "Poczatkowa Zbroja" 1 5 Armor
+126 W 0;0;0;0;0 "Bron poczatkowa" 1 2 8
+127 A 0;1;0;0;0 "Poczatkowy Helm" 1 2 Helm
+128 A 0;0;0;1;0 "Poczatkowa Zbroja" 1 5 Armor
+129 A 0;1;0;0;0 "Poczatkowe Rekawice" 1 3 Gloves
+130 W 0;10;2;0;0 "Neonowy Luk Poznania" 2 1 3
+131 W 0;0;10;4;0 "Cukierkowe laski zla" 2 3 5
+132 W 1;10;0;0;0 "Smiercionosna Wuwuzela" 2 1 3
+133 W 0;0;0;0;0 "Bron poczatkowa" 1 2 8
+134 A 0;1;0;0;0 "Poczatkowy Helm" 1 2 Helm
+135 A 0;0;0;1;0 "Poczatkowa Zbroja" 1 5 Armor
+136 W 0;0;0;0;0 "Bron poczatkowa" 1 1 7
+137 A 1;0;0;0;0 "Poczatkowy Helm" 1 2 Helm
+138 A 0;0;0;1;0 "Poczatkowa Zbroja" 1 5 Armor
+139 A 1;0;0;0;0 "Poczatkowe Rekawice" 1 3 Gloves
+140 W 0;10;2;0;0 "Neonowy Luk Poznania" 2 1 3
+141 W 0;0;10;4;0 "Cukierkowe laski zla" 2 3 5
+142 W 1;10;0;0;0 "Smiercionosna Wuwuzela" 2 1 3
+143 W 0;0;0;0;0 "Bron poczatkowa" 1 1 7
+144 A 1;0;0;0;0 "Poczatkowy Helm" 1 2 Helm
+145 A 0;0;0;1;0 "Poczatkowa Zbroja" 1 5 Armor
+146 W 0;0;0;0;0 "Bron poczatkowa" 1 2 8
+147 A 0;1;0;0;0 "Poczatkowy Helm" 1 2 Helm
+148 A 0;0;0;1;0 "Poczatkowa Zbroja" 1 5 Armor
+149 A 0;1;0;0;0 "Poczatkowe Rekawice" 1 3 Gloves
+150 W 0;10;2;0;0 "Neonowy Luk Poznania" 2 1 3
+151 W 0;0;10;4;0 "Cukierkowe laski zla" 2 3 5
+152 W 1;10;0;0;0 "Smiercionosna Wuwuzela" 2 1 3
+153 W 0;0;0;0;0 "Bron poczatkowa" 1 2 8
+154 A 0;1;0;0;0 "Poczatkowy Helm" 1 2 Helm
+155 A 0;0;0;1;0 "Poczatkowa Zbroja" 1 5 Armor
+156 W 0;0;0;0;0 "Bron poczatkowa" 1 2 8
+157 A 0;1;0;0;0 "Poczatkowy Helm" 1 2 Helm
+158 A 0;0;0;1;0 "Poczatkowa Zbroja" 1 5 Armor
+159 A 0;1;0;0;0 "Poczatkowe Rekawice" 1 3 Gloves
+160 W 0;10;2;0;0 "Neonowy Luk Poznania" 2 1 3
+161 W 0;0;10;4;0 "Cukierkowe laski zla" 2 3 5
+162 W 1;10;0;0;0 "Smiercionosna Wuwuzela" 2 1 3
+163 W 0;0;0;0;0 "Bron poczatkowa" 1 2 8
+164 A 0;1;0;0;0 "Poczatkowy Helm" 1 2 Helm
+165 A 0;0;0;1;0 "Poczatkowa Zbroja" 1 5 Armor
+166 W 0;0;0;0;0 "Bron poczatkowa" 1 1 7
+167 A 1;0;0;0;0 "Poczatkowy Helm" 1 2 Helm
+168 A 0;0;0;1;0 "Poczatkowa Zbroja" 1 5 Armor
+169 A 1;0;0;0;0 "Poczatkowe Rekawice" 1 3 Gloves
+170 W 10;0;10;0;0 "Rozdzka Skurczonej Czachy o Szemranej Mocy " 3 3 5
+171 W 0;5;10;0;0 "Narzedzie Zbrodni Gitarowego Herosa " 2 3 5
+172 W 10;0;7;0;0 "Zelazna piacha" 2 1 3
+173 W 10;7;0;0;0 "Zolw na Kiju" 3 1 3
+174 W 10;0;0;8;0 "Tluk" 2 1 3
+175 A 10;4;0;0;0 "Blaszany beben" 2 12 Armor
+176 W 0;0;0;0;0 "Bron poczatkowa" 1 8 10
+177 A 0;0;1;0;0 "Poczatkowy Helm" 1 2 Helm
+178 A 0;0;0;1;0 "Poczatkowa Zbroja" 1 5 Armor
+179 A 0;0;1;0;0 "Poczatkowe Rekawice" 1 3 Gloves
+180 W 18;0;0;0;0 "Miecz Demonicznego Spojrzenia" 2 1 3
+181 W 0;0;10;0;3 "Kostur astralny" 2 3 5
+182 W 10;0;0;10;0 "Porzadny cep" 3 1 3
+183 A 0;0;0;0;13 "Tajemne Rekawice Iluzjonisty" 3 2 Gloves
+184 A 0;0;0;8;4 "Imprezowa czapeczka dobrego humoru" 2 2 Helm
+185 W 0;9;10;0;0 "Zabojcze narzedzie Klauna " 3 3 5
+186 W 0;0;0;0;0 "Bron poczatkowa" 1 1 7
+187 A 1;0;0;0;0 "Poczatkowy Helm" 1 2 Helm
+188 A 0;0;0;1;0 "Poczatkowa Zbroja" 1 5 Armor
+189 A 1;0;0;0;0 "Poczatkowe Rekawice" 1 3 Gloves
+190 W 0;10;7;0;0 "Kusza" 3 1 3
+191 W 3;0;10;0;0 "Korzen zla" 2 3 5
+192 W 0;0;18;0;0 "Narzedzie Zbrodni Gitarowego Herosa " 2 3 5
+193 W 17;0;0;0;0 "Tluk" 2 1 3
+194 A 0;0;3;0;8 "Zloty Leb Hedonisty" 2 9 Helm
+195 W 10;0;9;0;0 "Niezbednik Pana Domu" 3 1 3
+196 W 0;0;0;0;0 "Bron poczatkowa" 1 2 8
+197 A 0;1;0;0;0 "Poczatkowy Helm" 1 2 Helm
+198 A 0;0;0;1;0 "Poczatkowa Zbroja" 1 5 Armor
+199 A 0;1;0;0;0 "Poczatkowe Rekawice" 1 3 Gloves
+200 W 1;10;0;0;0 "Oddech Smoka" 2 1 3
+201 W 0;14;0;0;0 "Laska Podstepnego Pasterza" 3 1 3
+202 W 10;6;0;0;0 "Siekiera Sieczki" 2 1 3
+203 W 0;0;0;0;0 "Bron poczatkowa" 1 2 8
+204 A 0;1;0;0;0 "Poczatkowy Helm" 1 2 Helm
+205 A 0;0;0;1;0 "Poczatkowa Zbroja" 1 5 Armor
+206 W 0;0;0;0;0 "Bron poczatkowa" 1 8 10
+207 A 0;0;1;0;0 "Poczatkowy Helm" 1 2 Helm
+208 A 0;0;0;1;0 "Poczatkowa Zbroja" 1 5 Armor
+209 A 0;0;1;0;0 "Poczatkowe Rekawice" 1 3 Gloves
+210 W 0;0;17;0;0 "Pedzel Potluczonego" 3 3 5
+211 W 8;0;10;0;0 "Kostur voodoo " 3 3 5
+212 W 0;10;0;4;0 "Luk Filetowania Piranii" 3 1 3
+213 A 0;4;0;10;0 "Tajemna Szata Legendarnego Mistrza" 3 2 Armor
+214 W 0;7;10;0;0 "Zabojcze narzedzie Klauna " 3 3 5
+215 W 0;0;10;8;0 "Wielorybi kostur " 2 3 5

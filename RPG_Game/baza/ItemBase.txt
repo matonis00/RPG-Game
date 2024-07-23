@@ -1,0 +1,353 @@
+Mage:
+Weapon:
+Kula
+Kryszta³owy kostur
+Ró¿d¿ka Magdaleny
+Korzeñ z³a
+Wielorybi kostur 
+Kostur voodoo 
+Ognisty kostur 
+Kostur astralny
+Z³owrogi paluch 
+Po¿eracz dusz 
+Ró¿d¿ka Skurczonej Czachy o Szemranej Mocy 
+Ognista Ró¿d¿ka Smoczego JeŸdŸca 
+Srebrna Kosa Ponurego ¯niwiarza
+Ró¿d¿ka Szarañczy
+Miotacz Ognia 
+Narzêdzie Zbrodni Gitarowego Herosa 
+Mokry Mop Ciecia 
+Skradziony M³ódce Sztylet w Serce 
+Zabójcze narzêdzie Klauna 
+Cukierkowe laski z³a
+Odkurzacz z dziurawym workiem
+Pêdzel Pot³uczonego
+Siekiera Sieczki
+Zaklinacz Sceptyków 
+Laska Podstêpnego Pasterza 
+Migacz 
+Z³ota Brzytwa 
+Armata z konfetti 
+Helm:
+Czepek
+Czapeczka
+Kaptur
+Czapka z antenk¹
+Czapka ucznia
+Kapelusz adepta
+Kapelusz czeladnika
+Kapelusz mistrza
+Kapelusz wielkiego mistrza
+Kaptur wielkiego mistrza
+Paranoidalny He³m Odbicia Promieni Laserowych
+Kapelusz Czarnoksiê¿nika
+Anonimizator
+Kapelusz Kapitana Korsarzy
+Maska Voodoo Xecl'Poxle'a
+Szacowna Peruka Jego Magnificencji
+Trójwymiarowe Okulary Daltonisty
+Czarodziejski Kapelusz Os³upienia
+Kapelusz arystokracji
+G³owa z Dyni
+D³uga £ycha
+Czapka Oprawcy
+Czepiec Œlimaczego WiedŸmina
+Kapelusz z W³asn¹ Osobowoœci¹
+Magiczny Czepiec Ma³ego Dzwoneczka
+Imprezowa czapeczka dobrego humoru
+Armor:
+Podomka
+Szata ucznia
+Szlafrok
+Koszula
+Elegancka koszula
+Szata adepta
+Szata czeladnika
+Szata mistrza
+Szata wielkiego mistrza
+Hiper-wypasiona szata
+Tajemna Szata Legendarnego Mistrza
+Lodowo-Ogniowa Szata Eskimosa
+Szata Fidgeta
+Przeklêta Szata Dobroci
+Ponura Szata Ponurego ¯niwiarza
+Schludny Frak Iluzjonisty
+Jaskrawa Kurtka Szo³mena
+Peleryna Ducha
+Staro¿ytny kostium Mumii
+P³aszcz Skrytobójcy
+Upiorny Kostium Królika
+Strój z Bieguna Pó³nocnego
+Za Du¿a Peleryna
+Zwê¿one £achmany
+Magiczna Podomka
+Najlepszy gajer jubilata
+Gloves:
+Jednorazowe rêkawiczki
+Rêkawice skórzane
+Rêkawice z materia³u
+Rêkawice ucznia
+Pozerskie rêkawice
+Rêkawice czeladnika
+Rêkawice Ucznia
+Rêkawice adepta
+Rêkawice mistrza
+Rêkawice wielkiego mistrza
+Tajemne Rêkawice Iluzjonisty
+Zielonopalczaste Rêkawice Nosod³uba
+Tajemny Krem Homeopatyczny
+Flisowe Rêkawiczki Potêpienia
+Upiorne Banda¿e Ozyrysa
+Rêkawice Ducha
+Pacynki do Macanki
+Eleganckie Rêkawice Magika
+Pacynkowe rêkawiczki
+Nasadki na Palce Freddy'ego
+Miêciutkie Rêkawiczki
+Rêkawice Czuwania
+Orbitalna Rêkawica
+Rêkawice Portali
+Zaprzeczacz Arcymaga
+Manatini
+Warrior:
+Weapon:
+T³uk
+Onucep
+Miecz-zabawka
+Sztacheta z gwoŸdziem
+Tasak
+Maczuga do sprzeczek
+Sztylet pod¿eberny
+Topór podrêczny
+Nó¿ kuchenny
+Topór obusieczny
+Bu³awa do sprzeczek
+Pretensjonalny rapier
+Porz¹dny cep
+D³ugi miecz
+Srebrny tomahawk
+¯elazna pi¹cha
+Katowski topór
+Roz³upywacz czaszek
+Zadzior
+Twardy m³ot
+Miecz królewski
+Masywny m³ot
+Cierniak
+Pogromca smoków
+Przeklêty topór
+Kontrargument
+Miecz bohatera
+Prawa rêka œmierci
+Oznaka statusu
+Demoniczne ostrze
+Przeklêty Szarpacz Dusz
+Kruszyciel Koœci Przemo¿nej Przemocy
+Hak Klabaternika
+Teksañski Masakrator 2000
+¯ó³w na Kiju
+Skacowana Czacha Zaranna
+Przepotê¿ny Otwieracz Penetracji
+Miecz Demonicznego Spojrzenia
+Niezbêdnik Pana Domu
+Wielki Nó¿ RzeŸnicki
+Wyrzutnia radioaktywna
+Pêdzel Pot³uczonego
+Siekiera Sieczki
+Szczeroz³ote Ostrze
+Laska Podstêpnego Pasterza
+Katowskie Ostrze
+Niebieski Pa³asz Pijaczyny
+Plask³apka dystansowa
+Helm:
+Rondel
+He³m z czepcem
+Blaszany he³m z korbk¹
+Stalowe wiadro
+He³m urzêdnika
+He³m chaosu
+Rogaty he³m
+Ostrohe³m
+Posêpna maska
+Posêpny he³m
+Chronicznie Chromowany He³m Ochronny
+Z³oty £eb Hedonisty
+He³m Zniszczenia z Ognistej Stali
+Hokejowa Maska Psychopaty
+He³m Awanturnika
+Bogato Zdobiony He³m Konkurów
+Czarno-¯ó³ta Maska Guœlarza
+He³m Rogatego Demona
+Uzbrojone gogle przewidywania
+G³owa z Dyni
+D³uga £ycha
+Czapka Oprawcy
+He³m z Che³ma
+Zderzakowy He³m Papli
+He³m z Wystaj¹c¹ ¯uchw¹
+Imprezowa czapeczka dobrego humoru
+Armor:
+Kosz na œmieci
+Zbroja u¿ytkowa
+Blaszany bêben
+Zbroja turniejowa
+Zbroja pysza³ka
+Zbroja p³ytowa
+Pancerz zarozumialca
+Pancerz bohatera
+Zbroja wojownika
+Zbroja zwyciêzcy
+Chronicznie Chromowana Zbroja Ochronna
+Z³oty Pancerz Hedonisty
+Pancerz Zniszczenia z Ognistej Stali
+Kostium Anonimowego Bohatera
+Pancerz Nieposkromionego Gniewu
+Angielska skrzynka pocztowa w grze s³ów
+Szklana zbroja przejrzystoœci
+Demoniczna Zbroja Wielkiej Paszczy
+¯ó³wia skorupa hydraulika
+P³aszcz Skrytobójcy
+Upiorny Kostium Królika
+Strój z Bieguna Pó³nocnego
+Awanturnicza Zbroja Z³omiarza
+Lwia Zbroja Du¿ego Kotka
+GroŸnie Wygl¹daj¹ca Zbroja
+Najlepszy gajer jubilata
+Gloves:
+Usztywniacze
+Nowe rêkawice
+Stare rêkawice
+Stylowe rêkawice
+Rêkawice ochronne
+Rêkawice rycerskie
+Rêkawice wojownika
+Rêkawice szlachcica
+Rêkawice bohatera
+Dusiciele smoków
+Chronicznie Chromowane Rêkawice Ochronne
+Z³ote £apska Hedonisty
+Rêkawice Upadku z Ognistej Stali
+Rêkawice McGyvera
+Rêkawice Bezmiaru Niesprawiedliwoœci
+Rêkawice do Krojenia Chleba
+¯elazne Rêkawice Bokserskie
+Rêkawice Demonicznych Macek
+Tajemnicze Rêkawice
+Nasadki na Palce Freddy'ego
+Miêciutkie Rêkawiczki
+Rêkawice Czuwania
+Wœciek³a Rêkawica
+Cennop³ytnapompo³apa
+Ostre jak Brzytwa Rêkawice
+Manatini
+Hunter:
+Weapon:
+Proca
+Krótki ³uk
+£uk-zabawka
+Kusza
+D³ugi ³uk
+£uk bojowy
+£uk ³owcy
+Kusza windykacji
+Precyzyjny ³uk
+Perfidny truciciel
+Oddech Smoka
+Neonowy £uk Poznania
+Masakromat 5000
+Biwakowy £uk £owcy
+£uk Filetowania Piranii
+Chicken Master 3000
+Rakietnica Realisty
+Œmiercionoœna Wuwuzela
+Harpun
+Kieszonkowa katapulta
+Kusza snajpera
+£añcuch Marchwi
+Siekiera Sieczki
+Gad¿et Dalekiego Zasiêgu
+Laska Podstêpnego Pasterza
+£uk z Piek³a Rodem
+Szcz¹tek Kraba (chyba)
+Armata z konfetti
+Helm:
+Kawa³ek szmaty ze wst¹¿k¹
+Lekki czepiec
+Prymitywny kaptur
+Rogaty czepiec
+Fajny czepiec
+Elegancki he³m
+Fajny he³m
+Zbrojny he³m
+He³m samuraja
+He³m bohatera
+Drakoñski He³m Koziej Czaszki
+He³m Pogromcy Demonów
+Przeœladowczy He³m Puszczañskiego Przeœladowcy
+Skórzana Maska Nietypowych Preferencji
+Gustowne Sombrero
+Stymulator Mózgu
+Eksperymentalny P³aszcz Oblatywacza
+Kapelusz Robina
+Przenoœne Obserwatorium
+G³owa z Dyni
+D³uga £ycha
+Czapka Oprawcy
+Rzucaj¹cy siê w Oczy He³m
+Piekielnie Zielony Kapelusz
+Epicki He³m
+Imprezowa czapeczka dobrego humoru
+Armor:
+£achmany
+Fajna kamizelka
+Tania kamizelka
+Kubrak ³owcy
+Masywny pancerz
+Elegancki pancerz
+Szynel wêdrowca
+Pancerz pysza³ka
+Dizajnerski pancerz
+Pancerz bohatera
+Napierœnik Grubego Bodo
+Pancerz Pogromcy Demonów
+Przeœladowczy Pancerz Puszczañskiego Przeœladowcy
+Skórzane Szelki Króla Barbarzyñców
+Bawarskie Lederhose Piwosza
+Trupia Kurtka Hieny Cmentarnej
+Podniebna Kurtka Lotnika
+Mordercza Kurtka z Mackami
+Smoczy Kostium Przytulania
+P³aszcz Skrytobójcy
+Upiorny Kostium Królika
+Strój z Bieguna Pó³nocnego
+Skórzany Bezrêkawnik ze Zbroj¹
+Zielone Niebezpieczeñstwo
+Zbroja Obroñcy Uciœnionych
+Najlepszy gajer jubilata
+Gloves:
+Mankiety
+Sznurowane rêkawice
+Rêkawice z materia³u
+Futrzane rêkawice
+Rêkawice skórzane
+Wzmocnione rêkawice
+Rêkawice ³owieckie
+Rêkawice strzeleckie
+Rêkawice ochronne
+Pozerskie rêkawice
+Rêkawice Nietoperzo³aka
+Rêkawice Pogromcy Demonów
+Przeœladowcze Rêkawice Puszczañskiego Przeœladowcy
+Pieszczocha Króla Barbarzyñców
+P³on¹ce Rêkawice Ognia Piekielnego
+Koszmarne Paso¿yty D³oni
+Rêkawice z Ulicy Wi¹zów
+Drogie Skórzane Rêkawice Fircyka
+Narzêdzie samozniszczenia
+Nasadki na Palce Freddy'ego
+Miêciutkie Rêkawiczki
+Rêkawice Czuwania
+Bardzo Dobra Rêkawica
+Zrêcznopalcy Kombinator
+Model ZX-12
+Manatini

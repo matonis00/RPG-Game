@@ -1,0 +1,11 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\projekty\\pk4\\projekty\\lw3\\ui_mod.ixx",
+        "ProvidedModule": "UI_mod",
+        "ImportedModules": [
+            "GraphicElement"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

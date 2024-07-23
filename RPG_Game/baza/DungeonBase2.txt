@@ -1,0 +1,20 @@
+1 1 48;52;104;77;47 "Zjawa" 30 10 Undead Mage 1
+1 2 120;68;59;101;51 "Szkielet" 30 12 Undead Warrior 2
+1 3 149;78;69;124;65 "Obrzydliwy o¿ywieniec" 30 14 Undead Warrior 3
+1 4 84;195;83;131;94 "Podstêpny wampir" 30 16 Undead Hunter 4
+1 5 214;101;89;169;93 "Ghul nocny" 30 18 Undead Warrior 5
+1 6 97;99;303;198;137 "Banshee" 30 22 Undead Mage 6
+1 7 359;135;122;260;142 "Szkielet-wojownik" 30 26 Undead Warrior 7
+1 8 126;130;460;279;193 "Szaman voodoo" 30 30 Undead Mage 8
+1 9 614;207;191;445;238 "Miêsny golem" 30 40 Undead Warrior 9
+1 10 221;847;213;561;292 "Ksi¹¿ê ciemnoœci" 30 50 Undead Hunter 10
+2 1 101;264;101;174;119 "Wodny glompf" 30 20 Ork Hunter 11
+2 2 317;126;117;238;130 "Yeti" 30 24 Ork Warrior 12
+2 3 393;138;125;284;152 "Szkielet" 30 28 Undead Warrior 13
+2 4 143;554;144;303;216 "Ohydny gremlin" 30 34 Goblin Hunter 14
+2 5 592;178;162;398;195 "Kamienny olbrzym" 30 38 Ork Warrior 15
+2 6 191;190;780;411;259 "¯ywio³ak ognia" 30 44 Undead Mage 16
+2 7 744;243;230;563;246 "Kamienny troll" 30 48 Ork Warrior 17
+2 8 250;960;240;680;345 "Sukkub bezwstydny" 30 56 Goblin Hunter 18
+2 9 300;1160;290;880;420 "Odra¿aj¹cy demon" 30 66 Ork Hunter 19
+2 10 1240;385;360;960;340 "Piekielna bestia" 30 70 Ork Warrior 20

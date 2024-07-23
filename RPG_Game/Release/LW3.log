@@ -1,0 +1,243 @@
+﻿  Trwa skanowanie źródeł pod kątem zależności modułów...
+  InteractiveUI_mod.ixx
+  UI_mod.ixx
+  GraphicElement.ixx
+  Trwa kompilowanie…
+  GraphicElement.ixx
+D:\Projekty\PK4\Projekty\LW3\GraphicElement.ixx(2,29): warning C5201: deklaracja modułu może występować tylko na początku jednostki translacji, chyba że zostanie użyty fragment modułu globalnego
+  UI_mod.ixx
+D:\Projekty\PK4\Projekty\LW3\UI_mod.ixx(5,21): warning C5201: deklaracja modułu może występować tylko na początku jednostki translacji, chyba że zostanie użyty fragment modułu globalnego
+D:\Projekty\PK4\Projekty\LW3\UI_mod.ixx(29,75): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Projekty\PK4\Projekty\LW3\UI_mod.ixx(29,55): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Projekty\PK4\Projekty\LW3\UI_mod.ixx(30,97): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Projekty\PK4\Projekty\LW3\UI_mod.ixx(30,61): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Projekty\PK4\Projekty\LW3\UI_mod.ixx(31,102): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Projekty\PK4\Projekty\LW3\UI_mod.ixx(31,61): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Projekty\PK4\Projekty\LW3\UI_mod.ixx(32,80): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Projekty\PK4\Projekty\LW3\UI_mod.ixx(32,55): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Projekty\PK4\Projekty\LW3\UI_mod.ixx(48,75): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Projekty\PK4\Projekty\LW3\UI_mod.ixx(48,55): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Projekty\PK4\Projekty\LW3\UI_mod.ixx(49,97): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Projekty\PK4\Projekty\LW3\UI_mod.ixx(49,61): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Projekty\PK4\Projekty\LW3\UI_mod.ixx(50,102): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Projekty\PK4\Projekty\LW3\UI_mod.ixx(50,61): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Projekty\PK4\Projekty\LW3\UI_mod.ixx(51,80): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Projekty\PK4\Projekty\LW3\UI_mod.ixx(51,55): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  InteractiveUI_mod.ixx
+D:\Projekty\PK4\Projekty\LW3\InteractiveUI_mod.ixx(5,32): warning C5201: deklaracja modułu może występować tylko na początku jednostki translacji, chyba że zostanie użyty fragment modułu globalnego
+D:\Projekty\PK4\Projekty\LW3\InteractiveUI_mod.ixx(21,44): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Projekty\PK4\Projekty\LW3\InteractiveUI_mod.ixx(21,34): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Projekty\PK4\Projekty\LW3\InteractiveUI_mod.ixx(252,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Account_Data.cpp
+  Armor.cpp
+  Character.cpp
+  Data_base.cpp
+D:\Projekty\PK4\Projekty\LW3\Data_base.cpp(246,21): warning C4101: "v_t_ptrM": lokalna zmienna, do której nie istnieje odwołanie
+D:\Projekty\PK4\Projekty\LW3\Data_base.cpp(507,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Projekty\PK4\Projekty\LW3\Data_base.cpp(515,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Projekty\PK4\Projekty\LW3\Data_base.cpp(523,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Projekty\PK4\Projekty\LW3\Data_base.cpp(579,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Projekty\PK4\Projekty\LW3\Data_base.cpp(581,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Projekty\PK4\Projekty\LW3\Data_base.cpp(589,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Dungeon.cpp
+  Equipment.cpp
+D:\Projekty\PK4\Projekty\LW3\Equipment.cpp(28,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Projekty\PK4\Projekty\LW3\Equipment.cpp(113,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Projekty\PK4\Projekty\LW3\Equipment.cpp(126,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Fight.cpp
+  Function.cpp
+  Gra_RPG.cpp
+  Hero.cpp
+D:\Projekty\PK4\Projekty\LW3\Hero.cpp(154,55): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+D:\Projekty\PK4\Projekty\LW3\Hero.cpp(179,27): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+D:\Projekty\PK4\Projekty\LW3\Hero.cpp(191,23): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+D:\Projekty\PK4\Projekty\LW3\Hero.cpp(199,23): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+D:\Projekty\PK4\Projekty\LW3\Hero.cpp(206,23): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+D:\Projekty\PK4\Projekty\LW3\Hero.cpp(229,27): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+D:\Projekty\PK4\Projekty\LW3\Hero.cpp(241,23): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+D:\Projekty\PK4\Projekty\LW3\Hero.cpp(249,23): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+D:\Projekty\PK4\Projekty\LW3\Hero.cpp(256,23): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+  Inn.cpp
+  Item.cpp
+  main.cpp
+D:\Projekty\PK4\Projekty\LW3\main.cpp(1155,29): warning C4129: "-": nierozpoznany znak sekwencji ucieczki
+D:\Projekty\PK4\Projekty\LW3\main.cpp(1809,58): warning C4805: "==": niebezpieczne połączenie typu "int" oraz typu "bool" w operacji
+D:\Projekty\PK4\Projekty\LW3\main.cpp(1811,78): warning C4805: "!=": niebezpieczne połączenie typu "int" oraz typu "bool" w operacji
+D:\Projekty\PK4\Projekty\LW3\main.cpp(2231,135): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+D:\Projekty\PK4\Projekty\LW3\main.cpp(2231,101): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+  Merchant.cpp
+  Monster.cpp
+D:\Projekty\PK4\Projekty\LW3\Monster.cpp(86,23): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+D:\Projekty\PK4\Projekty\LW3\Monster.cpp(87,27): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+D:\Projekty\PK4\Projekty\LW3\Monster.cpp(95,23): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+D:\Projekty\PK4\Projekty\LW3\Monster.cpp(102,23): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+D:\Projekty\PK4\Projekty\LW3\Monster.cpp(109,23): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+D:\Projekty\PK4\Projekty\LW3\Monster.cpp(121,23): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+D:\Projekty\PK4\Projekty\LW3\Monster.cpp(122,27): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+D:\Projekty\PK4\Projekty\LW3\Monster.cpp(131,23): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+D:\Projekty\PK4\Projekty\LW3\Monster.cpp(141,23): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+D:\Projekty\PK4\Projekty\LW3\Monster.cpp(151,23): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+D:\Projekty\PK4\Projekty\LW3\Monster.cpp(214,54): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+  Quest.cpp
+  Struct.cpp
+  Weapon.cpp
+  Trwa generowanie kodu
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+D:\Projekty\PK4\Projekty\LW3\Monster.cpp(190): warning C4715: "Monster::Get_HP”: niewszystkie ścieżki kodu zwracają wartość
+D:\Projekty\PK4\Projekty\LW3\Hero.cpp(130): warning C4715: "Hero::Get_HP”: niewszystkie ścieżki kodu zwracają wartość
+D:\Projekty\PK4\Projekty\LW3\Equipment.cpp(138): warning C4715: "Equipment::Add_Item”: niewszystkie ścieżki kodu zwracają wartość
+  All 3603 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  LW3.vcxproj -> D:\Projekty\PK4\Projekty\LW3\Release\LW3.exe

@@ -1,0 +1,57 @@
+1 139;150;154;156;168 "Pantera" 1 27 Goblin Hunter 27
+2 150;148;156;164;144 "Zlowrogi demon" 1 27 Goblin Warrior 28
+3 154;136;127;138;150 "Gorski troll" 1 25 Goblin Warrior 29
+4 2;2;2;2;2 "Pirat Krwawonos" 1 1 Human Warrior 37
+5 2;2;2;2;2 "Swiniocyklop" 1 1 Dwarf Warrior 38
+6 2;2;2;2;2 "Wsciekly niedzwiedz brunatny" 1 1 Goblin Warrior 39
+7 10;15;8;10;14 "Monstrualny nietoperz" 1 7 Dwarf Hunter 47
+8 15;7;10;13;10 "Gorski troll" 1 6 Dwarf Warrior 48
+9 10;11;10;11;11 "Wielka stopa" 1 5 Goblin Hunter 49
+10 7;8;9;6;10 "Przybysz z kosmosu" 1 4 Goblin Mage 57
+11 10;12;7;8;11 "Tygrys" 1 5 Goblin Hunter 58
+12 9;6;7;8;6 "Posepny wilk" 1 4 Goblin Warrior 59
+13 2;2;2;2;2 "Potwornie okrutny zajac" 1 1 Goblin Mage 67
+14 2;2;2;2;2 "Wsciekle psisko" 1 1 Goblin Warrior 68
+15 2;2;2;2;2 "Dzik" 1 1 Dwarf Warrior 69
+16 2;2;2;2;2 "Mroczny obcy" 1 1 Goblin Mage 77
+17 2;2;2;2;2 "Wsciekle psisko" 1 1 Goblin Warrior 78
+18 2;2;2;2;2 "Glompf bagienny" 1 1 Goblin Hunter 79
+19 6;6;6;5;4 "Parszywy dran" 1 3 Goblin Warrior 88
+20 4;7;4;7;5 "Wielka stopa" 1 3 Goblin Hunter 89
+21 3;3;5;4;5 "Rosiczka bagienna" 1 2 Human Mage 90
+22 2;2;2;2;2 "Sniezny lew" 1 1 Goblin Hunter 98
+23 2;2;2;2;2 "Wiedzma" 1 1 Goblin Mage 99
+24 2;2;2;2;2 "Wampir grozy" 1 1 Dwarf Hunter 100
+25 67;71;76;58;68 "Maly zielony czlowieczek" 1 19 Dwarf Mage 110
+26 120;109;110;116;103 "Raptor skaczacy" 1 20 Goblin Warrior 111
+27 119;114;102;114;115 "Wijozmij" 1 20 Goblin Hunter 112
+28 2;2;2;2;2 "Sniezny lew" 1 1 Goblin Hunter 120
+29 2;2;2;2;2 "Wiedzma" 1 1 Goblin Mage 121
+30 2;2;2;2;2 "Wampir grozy" 1 1 Dwarf Hunter 122
+31 2;2;2;2;2 "Sniezny lew" 1 1 Goblin Hunter 130
+32 2;2;2;2;2 "Wiedzma" 1 1 Goblin Mage 131
+33 2;2;2;2;2 "Wampir grozy" 1 1 Dwarf Hunter 132
+34 2;2;2;2;2 "Sniezny lew" 1 1 Goblin Hunter 140
+35 2;2;2;2;2 "Wiedzma" 1 1 Goblin Mage 141
+36 2;2;2;2;2 "Wampir grozy" 1 1 Dwarf Hunter 142
+37 2;2;2;2;2 "Sniezny lew" 1 1 Goblin Hunter 150
+38 2;2;2;2;2 "Wiedzma" 1 1 Goblin Mage 151
+39 2;2;2;2;2 "Wampir grozy" 1 1 Dwarf Hunter 152
+40 2;2;2;2;2 "Sniezny lew" 1 1 Goblin Hunter 160
+41 2;2;2;2;2 "Wiedzma" 1 1 Goblin Mage 161
+42 2;2;2;2;2 "Wampir grozy" 1 1 Dwarf Hunter 162
+43 2;2;2;2;2 "Potwornie okrutny zajac" 1 1 Goblin Mage 170
+44 2;2;2;2;2 "Szkielet voodoo" 1 1 Goblin Mage 171
+45 2;2;2;2;2 "Aligator cienisty" 1 1 Goblin Warrior 172
+46 2;2;2;2;2 "Klopotliwy mis" 1 1 Goblin Warrior 180
+47 2;2;2;2;2 "Szkielet voodoo" 1 1 Goblin Mage 181
+48 2;2;2;2;2 "Zawszony korsarz" 1 1 Goblin Warrior 182
+49 2;2;2;2;2 "Okrutny gremlin" 1 1 Goblin Hunter 190
+50 2;2;2;2;2 "Skazone drzewo" 1 1 Human Mage 191
+51 2;2;2;2;2 "Mroczny obcy" 1 1 Dwarf Mage 192
+52 2;2;2;2;2 "Sukkub bezwstydny" 1 1 Goblin Hunter 200
+53 2;2;2;2;2 "Lew gorski" 1 1 Goblin Hunter 201
+54 2;2;2;2;2 "Szkielet-wojownik" 1 1 Goblin Warrior 202
+55 2;2;2;2;2 "Piaskowy blob" 1 1 Human Mage 210
+56 2;2;2;2;2 "Czarny upior" 1 1 Human Mage 211
+57 2;2;2;2;2 "Szczur sciekowy" 1 1 Goblin Hunter 212

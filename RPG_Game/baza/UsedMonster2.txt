@@ -1,0 +1,18 @@
+1 74;68;60;81;65 "Szary T-Rex" 1 18 Dwarf Warrior 31
+2 66;64;57;62;74 "Leúny skorpion" 1 18 Goblin Hunter 32
+3 71;71;58;84;58 "Zielony T-Rex" 1 19 Goblin Warrior 33
+4 2;2;2;2;2 "Pirat Krwawonos" 1 1 Human Warrior 41
+5 2;2;2;2;2 "åwiniocyklop" 1 1 Dwarf Warrior 42
+6 2;2;2;2;2 "Wúciek≥y niedüwiedü brunatny" 1 1 Goblin Warrior 43
+7 10;15;8;10;14 "Monstrualny nietoperz" 1 7 Dwarf Hunter 51
+8 15;7;10;13;10 "GÛrski troll" 1 6 Dwarf Warrior 52
+9 10;11;10;11;11 "Wielka stopa" 1 5 Goblin Hunter 53
+10 7;8;9;6;10 "Przybysz z kosmosu" 1 4 Goblin Mage 61
+11 10;12;7;8;11 "Tygrys" 1 5 Goblin Hunter 62
+12 9;6;7;8;6 "PosÍpny wilk" 1 4 Goblin Warrior 63
+13 2;2;2;2;2 "Potwornie okrutny zajπc" 1 1 Goblin Mage 71
+14 2;2;2;2;2 "Wúciek≥e psisko" 1 1 Goblin Warrior 72
+15 2;2;2;2;2 "Dzik" 1 1 Dwarf Warrior 73
+16 2;2;2;2;2 "Mroczny obcy" 1 1 Goblin Mage 81
+17 2;2;2;2;2 "Wúciek≥e psisko" 1 1 Goblin Warrior 82
+18 2;2;2;2;2 "Glompf bagienny" 1 1 Goblin Hunter 83

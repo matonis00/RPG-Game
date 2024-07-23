@@ -1,0 +1,9 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\projekty\\pk4\\projekty\\lw3\\graphicelement.ixx",
+        "ProvidedModule": "GraphicElement",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

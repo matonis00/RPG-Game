@@ -1,0 +1,115 @@
+SH:
+Nad wode
+D:
+Ale tam jest duzo zlych ludzi,
+dzieki twojej pomocy ich pokonamy.
+SH:
+W gory
+D:
+Jest tam sporo golemow, 
+ktorym trzeba wkopac.
+Bo tak.
+SH:
+Do zamku
+D:
+O tak jest tam ksiezniczka piekna, 
+trzeba ja uratowac.
+SH:
+Do lasu
+D:
+Grasuje tu Piekielny Czerwony Kapturek
+z Koszem Obfitosci,
+ktorego trzeba zlapac bo zje wilka.
+SH:
+Do jaskini
+D:
+Tutaj biesiaduja wasate Beboki,
+trzeba je pokonac.
+SH:
+Do ruin
+D:
+W ruinach zgubil sie Minotaur,
+pomoz go znalezc (to chyba kiepski pomysl).
+SH:
+Do krypt
+D:
+Smutna mumia placze w kacie, 
+pociesz ja.
+SH:
+Do kantora
+D:
+Nie mozna tu oddac pozyczki, 
+wyperswaduj im ten blad.
+SH:
+Do automatu
+D:
+Ksieciusiowi chce sie jesc, 
+kup mu czekoladke.
+SH:
+Do magazynu
+D:
+Zachodza tam zbyt duze procesy myslowe, 
+powstrzymaj je.
+SH:
+Idz grac w kosci
+D:
+Musisz pokonac Wielkiego Koscianego Golema.
+SH:
+Idz zagrac w sudoku
+D:
+Odnajdz niefrasobliwe cyferki.
+SH:
+Do lodowki
+D:
+Musisz odtworzyc tajny przepis mistrza Giovanniego Vagabondo, 
+spod herbu Magdy Gesler.
+SH:
+Do innej karczmy
+D:
+Musisz popracowac jako kelner i nie dac sie zabic
+oraz dbac, aby szklanki zawsze pachnialy jajkiem.
+SH:
+Do wytworni filmowej
+D:
+Quentin Tarantino zostal osaczony przez postaci ze swojego filmu, 
+pomoz mu uciec.
+SH:
+Na Titan
+D:
+Szalona sliwka zbiera kamienie, aby zniszczyc swiat, 
+musisz go pokonac.
+SH:
+Do Sokovii
+D:
+Robotyczna armia przejmuje wladze nad swiatem, 
+zwalcz ja albo zostaniesz usuniety.
+SH:
+Magiczne tabletki
+D:
+Od mistrza Morfeusza przynies mi tabletke,
+nie umiem sie zdecydowac czy czerwona czy niebieska, wybierz sam.
+SH:
+Pojdz do wulkanu
+D:
+Twoj wuj podarowal ci dziwny pierscien, chwile po tym
+do twojego domu wbija stary, wysoki dziad i kaze go spalic w wulkanie.
+Bierzesz ze soba ogrodnika i zasuwasz do wulkanu.
+SH:
+Na polibude
+D:
+Napisz program na bazie gry RPG, ale lepszy od niej. A sorry juz to zrobiles.
+SH:
+Do Vegas
+D:
+Zgubilismy faceta. Pomoz nam go znalezc. PS. jutro bierze slub.
+SH:
+Do sklepu
+D:
+Mowia, ze zycie jest jak pudelko czekoladek. Na tym sie nie znam ale zjadlbym czekoladki. 
+Przynies mi je.
+SH:
+Wyplyn na morze
+D:
+Pewien pirat potrzebuje pomocy w wyciagnieciu statku z butelki. 
+Przynies kusze, trzy kozy i klepsydre. Grasz moze na trabce?
+SH:

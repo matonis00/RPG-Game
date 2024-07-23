@@ -1,0 +1,353 @@
+Mage:
+Weapon:
+Kula
+Krysztalowy kostur
+Rozdzka Magdaleny
+Korzen zla
+Wielorybi kostur 
+Kostur voodoo 
+Ognisty kostur 
+Kostur astralny
+Zlowrogi paluch 
+Pozeracz dusz 
+Rozdzka Skurczonej Czachy o Szemranej Mocy 
+Ognista Rozdzka Smoczego Jezdzca 
+Srebrna Kosa Ponurego Zniwiarza
+Rozdzka Szaranczy
+Miotacz Ognia 
+Narzedzie Zbrodni Gitarowego Herosa 
+Mokry Mop Ciecia 
+Skradziony Mlodce Sztylet w Serce 
+Zabojcze narzedzie Klauna 
+Cukierkowe laski zla
+Odkurzacz z dziurawym workiem
+Pedzel Potluczonego
+Siekiera Sieczki
+Zaklinacz Sceptykow 
+Laska Podstepnego Pasterza 
+Migacz 
+Zlota Brzytwa 
+Armata z konfetti 
+Helm:
+Czepek
+Czapeczka
+Kaptur
+Czapka z antenka
+Czapka ucznia
+Kapelusz adepta
+Kapelusz czeladnika
+Kapelusz mistrza
+Kapelusz wielkiego mistrza
+Kaptur wielkiego mistrza
+Paranoidalny Helm Odbicia Promieni Laserowych
+Kapelusz Czarnoksieznika
+Anonimizator
+Kapelusz Kapitana Korsarzy
+Maska Voodoo Xecl'Poxle'a
+Szacowna Peruka Jego Magnificencji
+Trojwymiarowe Okulary Daltonisty
+Czarodziejski Kapelusz Oslupienia
+Kapelusz arystokracji
+Glowa z Dyni
+Dluga Lycha
+Czapka Oprawcy
+Czepiec Slimaczego Wiedzmina
+Kapelusz z Wlasna Osobowoscia
+Magiczny Czepiec Malego Dzwoneczka
+Imprezowa czapeczka dobrego humoru
+Armor:
+Podomka
+Szata ucznia
+Szlafrok
+Koszula
+Elegancka koszula
+Szata adepta
+Szata czeladnika
+Szata mistrza
+Szata wielkiego mistrza
+Hiper-wypasiona szata
+Tajemna Szata Legendarnego Mistrza
+Lodowo-Ogniowa Szata Eskimosa
+Szata Fidgeta
+Przekleta Szata Dobroci
+Ponura Szata Ponurego Zniwiarza
+Schludny Frak Iluzjonisty
+Jaskrawa Kurtka Szolmena
+Peleryna Ducha
+Starozytny kostium Mumii
+Plaszcz Skrytobojcy
+Upiorny Kostium Krolika
+Stroj z Bieguna Polnocnego
+Za Duza Peleryna
+Zwezone Lachmany
+Magiczna Podomka
+Najlepszy gajer jubilata
+Gloves:
+Jednorazowe rekawiczki
+Rekawice skorzane
+Rekawice z materialu
+Rekawice ucznia
+Pozerskie rekawice
+Rekawice czeladnika
+Rekawice Ucznia
+Rekawice adepta
+Rekawice mistrza
+Rekawice wielkiego mistrza
+Tajemne Rekawice Iluzjonisty
+Zielonopalczaste Rekawice Nosodluba
+Tajemny Krem Homeopatyczny
+Flisowe Rekawiczki Potepienia
+Upiorne Bandaze Ozyrysa
+Rekawice Ducha
+Pacynki do Macanki
+Eleganckie Rekawice Magika
+Pacynkowe rekawiczki
+Nasadki na Palce Freddy'ego
+Mieciutkie Rekawiczki
+Rekawice Czuwania
+Orbitalna Rekawica
+Rekawice Portali
+Zaprzeczacz Arcymaga
+Manatini
+Warrior:
+Weapon:
+Tluk
+Onucep
+Miecz-zabawka
+Sztacheta z gwozdziem
+Tasak
+Maczuga do sprzeczek
+Sztylet podzeberny
+Topor podreczny
+Noz kuchenny
+Topor obusieczny
+Bulawa do sprzeczek
+Pretensjonalny rapier
+Porzadny cep
+Dlugi miecz
+Srebrny tomahawk
+Zelazna piacha
+Katowski topor
+Rozlupywacz czaszek
+Zadzior
+Twardy mlot
+Miecz krolewski
+Masywny mlot
+Cierniak
+Pogromca smokow
+Przeklety topor
+Kontrargument
+Miecz bohatera
+Prawa reka smierci
+Oznaka statusu
+Demoniczne ostrze
+Przeklety Szarpacz Dusz
+Kruszyciel Kosci Przemoznej Przemocy
+Hak Klabaternika
+Teksanski Masakrator 2000
+Zolw na Kiju
+Skacowana Czacha Zaranna
+Przepotezny Otwieracz Penetracji
+Miecz Demonicznego Spojrzenia
+Niezbednik Pana Domu
+Wielki Noz Rzeznicki
+Wyrzutnia radioaktywna
+Pedzel Potluczonego
+Siekiera Sieczki
+Szczerozlote Ostrze
+Laska Podstepnego Pasterza
+Katowskie Ostrze
+Niebieski Palasz Pijaczyny
+Plasklapka dystansowa
+Helm:
+Rondel
+Helm z czepcem
+Blaszany helm z korbka
+Stalowe wiadro
+Helm urzednika
+Helm chaosu
+Rogaty helm
+Ostrohelm
+Posepna maska
+Posepny helm
+Chronicznie Chromowany Helm Ochronny
+Zloty Leb Hedonisty
+Helm Zniszczenia z Ognistej Stali
+Hokejowa Maska Psychopaty
+Helm Awanturnika
+Bogato Zdobiony Helm Konkurow
+Czarno-Zolta Maska Guslarza
+Helm Rogatego Demona
+Uzbrojone gogle przewidywania
+Glowa z Dyni
+Dluga Lycha
+Czapka Oprawcy
+Helm z Chelma
+Zderzakowy Helm Papli
+Helm z Wystajaca Zuchwa
+Imprezowa czapeczka dobrego humoru
+Armor:
+Kosz na smieci
+Zbroja uzytkowa
+Blaszany beben
+Zbroja turniejowa
+Zbroja pyszalka
+Zbroja plytowa
+Pancerz zarozumialca
+Pancerz bohatera
+Zbroja wojownika
+Zbroja zwyciezcy
+Chronicznie Chromowana Zbroja Ochronna
+Zloty Pancerz Hedonisty
+Pancerz Zniszczenia z Ognistej Stali
+Kostium Anonimowego Bohatera
+Pancerz Nieposkromionego Gniewu
+Angielska skrzynka pocztowa w grze slow
+Szklana zbroja przejrzystosci
+Demoniczna Zbroja Wielkiej Paszczy
+Zolwia skorupa hydraulika
+Plaszcz Skrytobojcy
+Upiorny Kostium Krolika
+Stroj z Bieguna Polnocnego
+Awanturnicza Zbroja Zlomiarza
+Lwia Zbroja Duzego Kotka
+Groznie Wygladajaca Zbroja
+Najlepszy gajer jubilata
+Gloves:
+Usztywniacze
+Nowe rekawice
+Stare rekawice
+Stylowe rekawice
+Rekawice ochronne
+Rekawice rycerskie
+Rekawice wojownika
+Rekawice szlachcica
+Rekawice bohatera
+Dusiciele smokow
+Chronicznie Chromowane Rekawice Ochronne
+Zlote Lapska Hedonisty
+Rekawice Upadku z Ognistej Stali
+Rekawice McGyvera
+Rekawice Bezmiaru Niesprawiedliwosci
+Rekawice do Krojenia Chleba
+Zelazne Rekawice Bokserskie
+Rekawice Demonicznych Macek
+Tajemnicze Rekawice
+Nasadki na Palce Freddy'ego
+Mieciutkie Rekawiczki
+Rekawice Czuwania
+Wsciekla Rekawica
+Cennoplytnapompolapa
+Ostre jak Brzytwa Rekawice
+Manatini
+Hunter:
+Weapon:
+Proca
+Krotki luk
+Luk-zabawka
+Kusza
+Dlugi luk
+Luk bojowy
+Luk lowcy
+Kusza windykacji
+Precyzyjny luk
+Perfidny truciciel
+Oddech Smoka
+Neonowy Luk Poznania
+Masakromat 5000
+Biwakowy Luk Lowcy
+Luk Filetowania Piranii
+Chicken Master 3000
+Rakietnica Realisty
+Smiercionosna Wuwuzela
+Harpun
+Kieszonkowa katapulta
+Kusza snajpera
+Lancuch Marchwi
+Siekiera Sieczki
+Gadzet Dalekiego Zasiegu
+Laska Podstepnego Pasterza
+Luk z Piekla Rodem
+Szczatek Kraba (chyba)
+Armata z konfetti
+Helm:
+Kawalek szmaty ze wstazka
+Lekki czepiec
+Prymitywny kaptur
+Rogaty czepiec
+Fajny czepiec
+Elegancki helm
+Fajny helm
+Zbrojny helm
+Helm samuraja
+Helm bohatera
+Drakonski Helm Koziej Czaszki
+Helm Pogromcy Demonow
+Przesladowczy Helm Puszczanskiego Przesladowcy
+Skorzana Maska Nietypowych Preferencji
+Gustowne Sombrero
+Stymulator Mozgu
+Eksperymentalny Plaszcz Oblatywacza
+Kapelusz Robina
+Przenosne Obserwatorium
+Glowa z Dyni
+Dluga Lycha
+Czapka Oprawcy
+Rzucajacy sie w Oczy Helm
+Piekielnie Zielony Kapelusz
+Epicki Helm
+Imprezowa czapeczka dobrego humoru
+Armor:
+Lachmany
+Fajna kamizelka
+Tania kamizelka
+Kubrak lowcy
+Masywny pancerz
+Elegancki pancerz
+Szynel wedrowca
+Pancerz pyszalka
+Dizajnerski pancerz
+Pancerz bohatera
+Napiersnik Grubego Bodo
+Pancerz Pogromcy Demonow
+Przesladowczy Pancerz Puszczanskiego Przesladowcy
+Skorzane Szelki Krola Barbarzyncow
+Bawarskie Lederhose Piwosza
+Trupia Kurtka Hieny Cmentarnej
+Podniebna Kurtka Lotnika
+Mordercza Kurtka z Mackami
+Smoczy Kostium Przytulania
+Plaszcz Skrytobojcy
+Upiorny Kostium Krolika
+Stroj z Bieguna Polnocnego
+Skorzany Bezrekawnik ze Zbroja
+Zielone Niebezpieczenstwo
+Zbroja Obroncy Ucisnionych
+Najlepszy gajer jubilata
+Gloves:
+Mankiety
+Sznurowane rekawice
+Rekawice z materialu
+Futrzane rekawice
+Rekawice skorzane
+Wzmocnione rekawice
+Rekawice lowieckie
+Rekawice strzeleckie
+Rekawice ochronne
+Pozerskie rekawice
+Rekawice Nietoperzolaka
+Rekawice Pogromcy Demonow
+Przesladowcze Rekawice Puszczanskiego Przesladowcy
+Pieszczocha Krola Barbarzyncow
+Plonace Rekawice Ognia Piekielnego
+Koszmarne Pasozyty Dloni
+Rekawice z Ulicy Wiazow
+Drogie Skorzane Rekawice Fircyka
+Narzedzie samozniszczenia
+Nasadki na Palce Freddy'ego
+Mieciutkie Rekawiczki
+Rekawice Czuwania
+Bardzo Dobra Rekawica
+Zrecznopalcy Kombinator
+Model ZX-12
+Manatini

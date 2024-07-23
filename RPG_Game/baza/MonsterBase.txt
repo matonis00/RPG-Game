@@ -1,0 +1,154 @@
+Mage:
+Mroczny obcy
+Piekielny obcy
+Toksyczny obcy
+Mulisty blob
+Oœliz³y blob
+Blob wulkaniczny
+Piaskowy blob
+Okrutne drzewo
+Ska¿one drzewo
+Istota pozaziemska
+Przybysz z kosmosu
+Przybysz z obcej planety
+Ma³y zielony cz³owieczek
+WiedŸma
+Rosiczka bagienna
+Rosiczka leœna
+Meduza z moczar
+Meduza mroku
+Potwornie okrutny zaj¹c
+Potwornie jadowity zaj¹c
+Czarny upiór
+Upad³y mnich
+Kapturnik
+Rogacz ognisty
+Demon mrozu
+Szaman voodoo
+Szkielet voodoo
+Hunter:
+Rozbójnik Rozbójnik
+R¹bniêty rabuœ
+Z³y kradziej
+Bazyliszek
+Bazyliszek ognisty
+Jaszczurzy siepacz
+Jaszczurzy rozbójnik
+Jaszczur z bagien
+Górski jaszczur
+¯ywio³ak powietrza
+Burza piaskowa
+Plugawy nietoperz
+Nietoperz pylisty
+Monstrualny nietoperz
+Siny sêp
+Sêp olbrzymi
+Wodny glompf
+Glompf bagienny
+Glompf ognisty
+Ohydny gremlin
+Okrutny gremlin
+Chciwy gremlin
+Zgni³ozielony gremlin
+Hiena cmentarna
+Kobra grzechocz¹ca
+Kobra cienista
+Wijo¿mij
+Kobra pluj¹ca
+Potwornie morderczy zaj¹c
+Potwornie ró¿owy zaj¹czek
+Szczur œciekowy
+Szczur
+Szczur albinos
+Pantera
+Œnie¿ny lew
+Tygrys
+Lew górski
+Jaskiniowy skorpion
+Ognisty skorpion
+Skorpion cienisty
+Leœny skorpion
+Okrutna tarantula
+Paj¹k olbrzymi
+Paj¹k drzewny
+Sukkub bezwstydny
+Bagienna nimfomanka
+Piekielna oblubienica
+Podstêpny wampir
+Krwio¿erczy wampir
+Wampir grozy
+Wielka stopa
+Yeti
+Warrior:
+Wœciek³y niedŸwiedŸ brunatny
+K³opotliwy miœ
+NiedŸwiedŸ brunatny
+NiedŸwiedŸ polarny
+Smok ob³êdu
+Olbrzymi smok
+Smok ciemnoœci
+Jadowity smok
+Dragor mrozu
+Bagienny dragor
+Szary dragor
+Piekielny dragor
+Szkaradny demon
+Odra¿aj¹cy demon
+Z³owrogi demon
+Szary gargulec
+Br¹zowy gargulec
+Ghul nocny
+Siny ghul
+Ghul bagienny
+Kamienny olbrzym
+Wulkaniczny olbrzym
+Zielony gnoll
+Czerwony gnoll
+Szary gnoll
+Leœny goryl
+Bia³y goryl
+Goryl-góral
+Parszywy drañ
+Zawszony korsarz
+Szkielet-¿o³nierz
+Szkielet-wojownik
+Krokodyl b³otny
+Aligator cienisty
+MroŸny aligator
+Krokodyl mulisty
+Poczwara
+Ludojad
+Potwornie z³owrogi zaj¹c
+Potwornie choleryczny zaj¹c
+Czarnobrody
+Pirat John Pasat-Monsun
+Pirat Krwawonos
+Raptor rycz¹cy
+Raptor k³aposzczêki
+Raptor skacz¹cy
+Zielony T-Rex
+Czerwony T-Rex
+Szary T-Rex
+Szkielet
+Nadêty minotaur
+Byczy kark
+Pod³y minotaur
+Nocny troll
+Kamienny troll
+Œnie¿ny troll
+Górski troll
+Odyniec
+Dzik
+Œnie¿ny wilk
+Wœciek³y wilk
+Posêpny wilk
+Wœciek³e psisko
+Zielony centaur
+Bordowy centaur
+Szary centaur
+Obrzydliwy o¿ywieniec
+Nieumar³y zombie
+Cyklop piaskowy
+Piekielny cyklop
+Jaskiniowy cyklop
+Œwiniocyklop

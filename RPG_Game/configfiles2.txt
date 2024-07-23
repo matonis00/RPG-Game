@@ -1,0 +1,13 @@
+Data2.txt
+Dungeon2.txt
+DungeonBase2.txt
+Equipment2.txt
+ItemBase.txt
+Hero2.txt
+Inn2.txt
+Merchant2.txt
+UsedItems2.txt
+UsedMonster2.txt
+UsedQuest2.txt
+MonsterBase.txt
+QuestBase.txt

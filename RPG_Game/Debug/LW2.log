@@ -1,0 +1,95 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (Pattern.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  main.cpp
+D:\Projekty\PK4\Projekty\LW2\main.cpp(33,75): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Projekty\PK4\Projekty\LW2\main.cpp(33,55): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Projekty\PK4\Projekty\LW2\main.cpp(34,97): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Projekty\PK4\Projekty\LW2\main.cpp(34,61): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Projekty\PK4\Projekty\LW2\main.cpp(35,102): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Projekty\PK4\Projekty\LW2\main.cpp(35,61): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Projekty\PK4\Projekty\LW2\main.cpp(36,80): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Projekty\PK4\Projekty\LW2\main.cpp(36,55): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Projekty\PK4\Projekty\LW2\main.cpp(79,44): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Projekty\PK4\Projekty\LW2\main.cpp(79,34): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Projekty\PK4\Projekty\LW2\main.cpp(198,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Projekty\PK4\Projekty\LW2\main.cpp(304,7): warning C4101: "goGame2": lokalna zmienna, do której nie istnieje odwołanie
+  LW2.vcxproj -> D:\Projekty\PK4\Projekty\TestSFML\Debug\LW2.exe

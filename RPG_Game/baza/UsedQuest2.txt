@@ -1,0 +1,18 @@
+1 "Do automatu " "Ksieciusiowi chce sie jesc, kup mu czekoladke. " 5396 64 1
+2 "Na polibude " "Napisz program na bazie gry RPG, ale lepszy od niej. A sorry juz to zrobiles. " 6251 68 2
+3 "Do ruin " "W ruinach zgubil sie Minotaur, pomoz go znalezc (to chyba kiepski pomysl). " 4750 66 3
+4 "Do zamku " "O tak jest tam ksiezniczka piekna, trzeba ja uratowac. " 398 4 4
+5 "Na polibude " "Napisz program na bazie gry RPG, ale lepszy od niej. A sorry juz to zrobiles. " 302 4 5
+6 "Idz zagrac w sudoku " "Odnajdz niefrasobliwe cyferki. " 363 4 6
+7 "Do magazynu " "Zachodza tam zbyt duze procesy myslowe, powstrzymaj je. " 1638 22 7
+8 "Do ruin " "W ruinach zgubil sie Minotaur, pomoz go znalezc (to chyba kiepski pomysl). " 1862 26 8
+9 "Do innej karczmy " "Musisz popracowac jako kelner i nie dac sie zabic oraz dbac, aby szklanki zawsze pachnialy jajkiem. " 2219 22 9
+10 "Pojdz do wulkanu " "Twoj wuj podarowal ci dziwny pierscien, chwile po tym do twojego domu wbija stary, wysoki dziad i kaze go spalic w wulkanie. Bierzesz ze soba ogrodnika i zasuwasz do wulkanu. " 1340 16 10
+11 "Do kantora " "Nie mozna tu oddac pozyczki, wyperswaduj im ten blad. " 1690 16 11
+12 "Do jaskini " "Tutaj biesiaduja wasate Beboki, trzeba je pokonac. " 1200 12 12
+13 "Do lodowki " "Musisz odtworzyc tajny przepis mistrza Giovanniego Vagabondo, spod herbu Magdy Gesler. " 444 6 13
+14 "Do innej karczmy " "Musisz popracowac jako kelner i nie dac sie zabic oraz dbac, aby szklanki zawsze pachnialy jajkiem. " 772 6 14
+15 "Do Sokovii " "Robotyczna armia przejmuje wladze nad swiatem, zwalcz ja albo zostaniesz usuniety. " 688 6 15
+16 "Do sklepu " "Mowia, ze zycie jest jak pudelko czekoladek. Na tym sie nie znam ale zjadlbym czekoladki.  Przynies mi je. " 344 4 16
+17 "Do jaskini " "Tutaj biesiaduja wasate Beboki, trzeba je pokonac. " 235 4 17
+18 "Do krypt " "Smutna mumia placze w kacie,  pociesz ja. " 295 4 18

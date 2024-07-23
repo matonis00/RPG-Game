@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (LW2.vcxproj, Pattern.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  Trwa skanowanie źródeł pod kątem zależności modułów...
+  main.cpp
+D:\Projekty\PK4\Projekty\LW3\main.cpp(1156,29): warning C4129: "-": nierozpoznany znak sekwencji ucieczki
+D:\Projekty\PK4\Projekty\LW3\main.cpp(1809,58): warning C4805: "==": niebezpieczne połączenie typu "int" oraz typu "bool" w operacji
+D:\Projekty\PK4\Projekty\LW3\main.cpp(1811,78): warning C4805: "!=": niebezpieczne połączenie typu "int" oraz typu "bool" w operacji
+D:\Projekty\PK4\Projekty\LW3\main.cpp(2231,135): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+D:\Projekty\PK4\Projekty\LW3\main.cpp(2231,101): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+  LW3.vcxproj -> D:\Projekty\PK4\Projekty\LW3\Debug\LW3.exe
